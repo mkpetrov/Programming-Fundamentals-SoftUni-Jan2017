@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Special_Numbers
 {
-    class Program
+    class SpecialNumbers
     {
         static void Main(string[] args)
         {
