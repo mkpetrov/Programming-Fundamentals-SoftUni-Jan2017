@@ -16,10 +16,10 @@ namespace Distance_of_the_Stars
             long edgeOfUniverse = 46500000000;
             long lightYear = 9450000000000;
 
-            Console.WriteLine("{0:e2}",nearestStar*lightYear);
-            Console.WriteLine("{0:e2}",centerOfGalaxy*lightYear);
-            Console.WriteLine("{0:e2}",milkyWay*lightYear);
-            Console.WriteLine("{0:e2}",edgeOfUniverse*(decimal)lightYear);
+            Console.WriteLine("{0:e2}", nearestStar * lightYear);
+            Console.WriteLine("{0:e2}", centerOfGalaxy * lightYear);
+            Console.WriteLine("{0:e2}", milkyWay * lightYear);
+            Console.WriteLine("{0:e2}", edgeOfUniverse * (decimal)lightYear);
         }
     }
 }
