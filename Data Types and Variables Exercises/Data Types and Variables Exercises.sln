@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Float or Integer", "Float o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance of the Stars", "Distance of the Stars\Distance of the Stars.csproj", "{60DB7102-9166-4C4E-951C-1EC43B1D541B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increment Variable", "Increment Variable\Increment Variable.csproj", "{2BCBC52C-71C1-4F11-8642-A3CF501C0179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "From Terabytes to Bits", "From Terabytes to Bits\From Terabytes to Bits.csproj", "{EE605721-A3BA-4E88-90CC-50144BD192F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{60DB7102-9166-4C4E-951C-1EC43B1D541B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60DB7102-9166-4C4E-951C-1EC43B1D541B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60DB7102-9166-4C4E-951C-1EC43B1D541B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BCBC52C-71C1-4F11-8642-A3CF501C0179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCBC52C-71C1-4F11-8642-A3CF501C0179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCBC52C-71C1-4F11-8642-A3CF501C0179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCBC52C-71C1-4F11-8642-A3CF501C0179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE605721-A3BA-4E88-90CC-50144BD192F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE605721-A3BA-4E88-90CC-50144BD192F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE605721-A3BA-4E88-90CC-50144BD192F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE605721-A3BA-4E88-90CC-50144BD192F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
