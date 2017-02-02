@@ -19,11 +19,11 @@ namespace Traveling_At_Light_Speed
             decimal Hours = total / 60 / 60 % 24;
             decimal Minutes = total / 60 % 60;
             decimal Seconds = total % 60;
-            Console.WriteLine("{0} weeks", Math.Round(weeks));
-            Console.WriteLine("{0} days", Math.Round(day));
-            Console.WriteLine("{0} hours", Math.Round(Hours));
-            Console.WriteLine("{0} minutes", Math.Round(Minutes));
-            Console.WriteLine("{0} seconds", Math.Round(Seconds));
+            Console.WriteLine("{0} weeks",(int)(weeks));
+            Console.WriteLine("{0} days", (int)(day));
+            Console.WriteLine("{0} hours",(int)(Hours));
+            Console.WriteLine("{0} minutes",(int)(Minutes));
+            Console.WriteLine("{0} seconds",(int)(Seconds));
         }
     }
 }
