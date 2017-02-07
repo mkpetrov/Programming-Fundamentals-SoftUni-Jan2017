@@ -10,7 +10,7 @@ namespace Tetris_Broken
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine()) - 1;
+            int n = int.Parse(Console.ReadLine());
             string currentDirection = Console.ReadLine();
 
             while (currentDirection != "exit")
@@ -18,16 +18,16 @@ namespace Tetris_Broken
                 switch (currentDirection)
                 {
                     case "up":
-                        Left(n);
+                        Up(n);
                         break;
                     case "right":
-                        Down(n);
-                        break;
-                    case "down":
                         Right(n);
                         break;
+                    case "down":
+                        Down(n);
+                        break;
                     case "left":
-                        Up(n);
+                        Left(n);
                         break;
                 }
 
@@ -41,16 +41,16 @@ namespace Tetris_Broken
             {
                 Console.WriteLine(
                     new string('.', n)
-                    + new string('*', n - 1));
+                    + new string('*', n));
             }
 
-            for (int i = 0; i < n; i--)
+            for (int i = 0; i < n; i++)
             {
                 Console.WriteLine(
                     new string('*', 2 * n));
             }
 
-            for (int i = 1; i < n; i++)
+            for (int i = 0; i < n; i++)
             {
                 Console.WriteLine(
                     new string('.', n)
@@ -74,7 +74,7 @@ namespace Tetris_Broken
                     new string('*', 2 * n));
             }
 
-            for (int i = 0; i > n; i++)
+            for (int i = 0; i < n; i++)
             {
                 Console.WriteLine(
                     new string('*', n)
@@ -89,7 +89,7 @@ namespace Tetris_Broken
             {
                 Console.WriteLine(
                         new string('.', n)
-                        + new string('.', n)
+                        + new string('*', n)
                         + new string('.', n)
                         );
             }
@@ -110,7 +110,7 @@ namespace Tetris_Broken
                         new string('*', n * 3)
                         );
             }
-            n--;
+            
             for (int i = 0; i < n; i++)
             {
                 Console.WriteLine(
