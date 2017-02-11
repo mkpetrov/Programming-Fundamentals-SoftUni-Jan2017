@@ -15,6 +15,26 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count of Odd Numbers in Arr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odd Numbers at Odd Positions", "Odd Numbers at Odd Positions\Odd Numbers at Odd Positions.csproj", "{A0861BC3-BD17-4BE2-8DFE-E6D9CEFE7641}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest Element in Array", "Largest Element in Array\Largest Element in Array.csproj", "{BEF156FE-0E85-405A-848F-45B4299226B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count of Negative Elements in Array", "Count of Negative Elements in Array\Count of Negative Elements in Array.csproj", "{7105D9C6-F007-493C-A075-EFB638A71000}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count of Given Element in Array", "Count of Given Element in Array\Count of Given Element in Array.csproj", "{AD5D8799-A47F-4563-B420-8E766A648BD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Occurrences of Larger Numbers in Array", "Count Occurrences of Larger Numbers in Array\Count Occurrences of Larger Numbers in Array.csproj", "{EE1C5B75-EE67-4834-AD48-59B19E791334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increasing Sequence of Elements", "Increasing Sequence of Elements\Increasing Sequence of Elements.csproj", "{03A105B2-5BB5-43F6-B9CB-F49140D9D98B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equal Sequence of Elements in Array", "Equal Sequence of Elements in Array\Equal Sequence of Elements in Array.csproj", "{C24F6992-75F6-4E87-88F5-0AE2764970CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count of Capital Letters in Array", "Count of Capital Letters in Array\Count of Capital Letters in Array.csproj", "{A85EA21D-BCD9-4271-8CF2-8F82FA6C14DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Symmetry", "Array Symmetry\Array Symmetry.csproj", "{BF3C71C6-A765-4506-A1F1-237E975C0BD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altitude", "Altitude\Altitude.csproj", "{813FB9FD-8EE1-461E-8E86-0F4422F5CC34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ballistics Training", "Ballistics Training\Ballistics Training.csproj", "{A6CEE9DB-02D0-4FBD-952E-B53CF6FD3B66}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +65,46 @@ Global
 		{A0861BC3-BD17-4BE2-8DFE-E6D9CEFE7641}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0861BC3-BD17-4BE2-8DFE-E6D9CEFE7641}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0861BC3-BD17-4BE2-8DFE-E6D9CEFE7641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF156FE-0E85-405A-848F-45B4299226B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF156FE-0E85-405A-848F-45B4299226B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF156FE-0E85-405A-848F-45B4299226B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF156FE-0E85-405A-848F-45B4299226B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7105D9C6-F007-493C-A075-EFB638A71000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7105D9C6-F007-493C-A075-EFB638A71000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7105D9C6-F007-493C-A075-EFB638A71000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7105D9C6-F007-493C-A075-EFB638A71000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5D8799-A47F-4563-B420-8E766A648BD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5D8799-A47F-4563-B420-8E766A648BD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5D8799-A47F-4563-B420-8E766A648BD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5D8799-A47F-4563-B420-8E766A648BD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE1C5B75-EE67-4834-AD48-59B19E791334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE1C5B75-EE67-4834-AD48-59B19E791334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE1C5B75-EE67-4834-AD48-59B19E791334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE1C5B75-EE67-4834-AD48-59B19E791334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A105B2-5BB5-43F6-B9CB-F49140D9D98B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A105B2-5BB5-43F6-B9CB-F49140D9D98B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A105B2-5BB5-43F6-B9CB-F49140D9D98B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A105B2-5BB5-43F6-B9CB-F49140D9D98B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C24F6992-75F6-4E87-88F5-0AE2764970CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24F6992-75F6-4E87-88F5-0AE2764970CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24F6992-75F6-4E87-88F5-0AE2764970CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24F6992-75F6-4E87-88F5-0AE2764970CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A85EA21D-BCD9-4271-8CF2-8F82FA6C14DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85EA21D-BCD9-4271-8CF2-8F82FA6C14DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85EA21D-BCD9-4271-8CF2-8F82FA6C14DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85EA21D-BCD9-4271-8CF2-8F82FA6C14DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3C71C6-A765-4506-A1F1-237E975C0BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3C71C6-A765-4506-A1F1-237E975C0BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3C71C6-A765-4506-A1F1-237E975C0BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3C71C6-A765-4506-A1F1-237E975C0BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{813FB9FD-8EE1-461E-8E86-0F4422F5CC34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813FB9FD-8EE1-461E-8E86-0F4422F5CC34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813FB9FD-8EE1-461E-8E86-0F4422F5CC34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813FB9FD-8EE1-461E-8E86-0F4422F5CC34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6CEE9DB-02D0-4FBD-952E-B53CF6FD3B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6CEE9DB-02D0-4FBD-952E-B53CF6FD3B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6CEE9DB-02D0-4FBD-952E-B53CF6FD3B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6CEE9DB-02D0-4FBD-952E-B53CF6FD3B66}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
