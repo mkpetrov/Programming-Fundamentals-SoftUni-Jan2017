@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BE3BD80C-8637-410C-9CBD-ED8CE84D0C08}</ProjectGuid>
+    <ProjectGuid>{A271416E-270C-44A2-8348-20C3D34352DC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Stuck_Zipper</RootNamespace>
-    <AssemblyName>Stuck Zipper</AssemblyName>
+    <RootNamespace>Camel_s_Back</RootNamespace>
+    <AssemblyName>Camel%27s Back</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Stuck Zipper.cs" />
+    <Compile Include="Camel Back.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

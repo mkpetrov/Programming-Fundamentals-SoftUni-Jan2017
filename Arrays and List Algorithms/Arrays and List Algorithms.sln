@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoot List Elements", "Shoot List Elements\Shoot List Elements.csproj", "{9D7D70B6-5581-40EB-A981-1DEB8751E299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageCharacterDelimiter", "AverageCharacterDelimiter\AverageCharacterDelimiter.csproj", "{0CE98FB2-7D9E-4131-B40D-83D7F0B59183}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Array of Strings", "Sort Array of Strings\Sort Array of Strings.csproj", "{341DD130-1D50-46B7-8297-FE4D6F9B6267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Histogram", "Array Histogram\Array Histogram.csproj", "{9699AA78-B8B5-4C9A-B8AD-76AD43A7462F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decode Radio Frequencies", "Decode Radio Frequencies\Decode Radio Frequencies.csproj", "{87AD2586-D501-4A0C-A998-0FDFBC95C78B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D7D70B6-5581-40EB-A981-1DEB8751E299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7D70B6-5581-40EB-A981-1DEB8751E299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7D70B6-5581-40EB-A981-1DEB8751E299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7D70B6-5581-40EB-A981-1DEB8751E299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE98FB2-7D9E-4131-B40D-83D7F0B59183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE98FB2-7D9E-4131-B40D-83D7F0B59183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE98FB2-7D9E-4131-B40D-83D7F0B59183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE98FB2-7D9E-4131-B40D-83D7F0B59183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{341DD130-1D50-46B7-8297-FE4D6F9B6267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341DD130-1D50-46B7-8297-FE4D6F9B6267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341DD130-1D50-46B7-8297-FE4D6F9B6267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341DD130-1D50-46B7-8297-FE4D6F9B6267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9699AA78-B8B5-4C9A-B8AD-76AD43A7462F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9699AA78-B8B5-4C9A-B8AD-76AD43A7462F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9699AA78-B8B5-4C9A-B8AD-76AD43A7462F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9699AA78-B8B5-4C9A-B8AD-76AD43A7462F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AD2586-D501-4A0C-A998-0FDFBC95C78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AD2586-D501-4A0C-A998-0FDFBC95C78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AD2586-D501-4A0C-A998-0FDFBC95C78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AD2586-D501-4A0C-A998-0FDFBC95C78B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

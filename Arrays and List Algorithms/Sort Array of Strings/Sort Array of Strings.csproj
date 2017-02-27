@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BE3BD80C-8637-410C-9CBD-ED8CE84D0C08}</ProjectGuid>
+    <ProjectGuid>{341DD130-1D50-46B7-8297-FE4D6F9B6267}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Stuck_Zipper</RootNamespace>
-    <AssemblyName>Stuck Zipper</AssemblyName>
+    <RootNamespace>Sort_Array_of_Strings</RootNamespace>
+    <AssemblyName>Sort Array of Strings</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Stuck Zipper.cs" />
+    <Compile Include="SortArrayOfStrings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
