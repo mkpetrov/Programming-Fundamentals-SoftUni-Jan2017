@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cards", "Cards\Cards.csproj", "{AA3B494B-FF5D-4F9B-B4CA-BD39683D5701}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fish Statistics", "Fish Statistics\Fish Statistics.csproj", "{5DE4844E-B7D4-4238-8D51-DDC3CE20ED06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Word Encounter", "Word Encounter\Word Encounter.csproj", "{2BFF00EA-80EB-4761-8AF7-9B630E5377BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3B494B-FF5D-4F9B-B4CA-BD39683D5701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3B494B-FF5D-4F9B-B4CA-BD39683D5701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3B494B-FF5D-4F9B-B4CA-BD39683D5701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3B494B-FF5D-4F9B-B4CA-BD39683D5701}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE4844E-B7D4-4238-8D51-DDC3CE20ED06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE4844E-B7D4-4238-8D51-DDC3CE20ED06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE4844E-B7D4-4238-8D51-DDC3CE20ED06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE4844E-B7D4-4238-8D51-DDC3CE20ED06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFF00EA-80EB-4761-8AF7-9B630E5377BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFF00EA-80EB-4761-8AF7-9B630E5377BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFF00EA-80EB-4761-8AF7-9B630E5377BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFF00EA-80EB-4761-8AF7-9B630E5377BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
