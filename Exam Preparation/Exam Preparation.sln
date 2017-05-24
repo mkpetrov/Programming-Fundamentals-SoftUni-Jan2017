@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet Assault", "Hornet As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hornet Armada", "Hornet Armada\Hornet Armada.csproj", "{DC8E1E29-B538-44E0-9A96-68062035ABFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spyfer", "Spyfer\Spyfer.csproj", "{C3D9FB94-3316-4B40-AEF6-FD61C6DAB6AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{DC8E1E29-B538-44E0-9A96-68062035ABFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC8E1E29-B538-44E0-9A96-68062035ABFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC8E1E29-B538-44E0-9A96-68062035ABFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D9FB94-3316-4B40-AEF6-FD61C6DAB6AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D9FB94-3316-4B40-AEF6-FD61C6DAB6AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D9FB94-3316-4B40-AEF6-FD61C6DAB6AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D9FB94-3316-4B40-AEF6-FD61C6DAB6AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
